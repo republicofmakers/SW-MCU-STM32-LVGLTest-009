@@ -3,9 +3,10 @@
 Go to LVGL github page and put related driver files to the project.
 https://github.com/lvgl/lvgl
 
-It uses external flash (W25Q64) and it is connected to stm32h750 via QSPI. You can edit the code and can create your external loader.
+It uses external flash (W25Q64) and flash is connected to stm32h750 via QSPI. You can edit the code and can create your lvgl projects.
 
 You can create beautiful UI with LVGL.
+Go to:https://lvgl.io/ for more information and examples.
 
 Here is the Test :
 
